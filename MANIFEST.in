@@ -1,0 +1,7 @@
+include bindingtests/bindingtests.min.js
+include bindingtests/bindingtests.min.js.map
+include bindingtests/metadata.json
+include bindingtests/package-info.json
+include README.md
+include LICENSE
+include package.json
